@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Meta on John Zdanowski</title>
+    <link>http://localhost:1313/tags/meta/</link>
+    <description>Recent content in Meta on John Zdanowski</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/meta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description>First post. Why this site exists.</description>
+    </item>
+  </channel>
+</rss>
