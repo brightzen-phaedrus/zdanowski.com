@@ -34,11 +34,9 @@ buildExpired = false
   showtoc = true
 
   [params.homeInfoParams]
-    Title = "John Zdanowski"
+    Title = "Better systems of thought"
     Content = """
-Signal, noise, and the art of small business finance. \
-Co-founder of [Phoenix Strategy Group](https://phoenixstrategy.group) and [BrightZen](https://brightzen.com). \
-Author of *Zen and the Art of Weekly Accounting*."""
+inevitably proliferate"""
 
   [[params.socialIcons]]
     name = "email"
