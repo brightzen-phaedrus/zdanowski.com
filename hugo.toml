@@ -85,6 +85,12 @@ inevitably proliferate"""
   weight = 30
 
 [[menu.main]]
+  identifier = "members"
+  name = "Members"
+  url = "https://app.zdanowski.com"
+  weight = 35
+
+[[menu.main]]
   identifier = "tags"
   name = "Tags"
   url = "/tags/"
